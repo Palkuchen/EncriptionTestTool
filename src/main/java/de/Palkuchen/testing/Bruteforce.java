@@ -2,7 +2,6 @@ package de.Palkuchen.testing;
 
 import de.Palkuchen.algorythm.Encryption;
 import de.Palkuchen.util.Timer;
-import de.Palkuchen.util.Utilities;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
